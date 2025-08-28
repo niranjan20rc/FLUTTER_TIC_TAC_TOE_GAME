@@ -4,10 +4,10 @@ A simple Tic Tac Toe game built with Flutter.
 
 ## Features
 
-* 3×3 grid
-* Two player mode
-* Detects win or draw
-* Restart option
+- 3×3 grid
+- Two player mode
+- Detects win or draw
+- Restart option
 
 ## Getting Started
 
@@ -16,22 +16,3 @@ git clone <your-repo-url>
 cd flutter_tic_tac_toe
 flutter pub get
 flutter run
-```
-
-## Project Structure
-
-```
-lib/
- └─ main.dart   # Game code
-```
-
-## Build
-
-```bash
-flutter build apk --release   # Android
-flutter build web             # Web
-```
-
-## License
-
-MIT
